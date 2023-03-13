@@ -36,8 +36,7 @@ const socialMediaLinks = {
   // github: "https://github.com/saadpasta",
   linkedin: "https://www.linkedin.com/in/haris-bilal-76024721a/",
   gmail: "imharisbilal1@gmail.com",
-  fiver: "https://www.fiverr.com/haris_bilal035/be-your-ruby-on-rails-developer",
-  // Instagram, Twitter and Kaggle are also supported in the links!
+    // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
