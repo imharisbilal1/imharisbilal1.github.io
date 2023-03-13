@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.5cf1b47a.chunk.css",
-  "main.js": "/static/js/main.8903a8f1.chunk.js",
-  "main.js.map": "/static/js/main.8903a8f1.chunk.js.map",
+  "main.js": "/static/js/main.3b925197.chunk.js",
+  "main.js.map": "/static/js/main.3b925197.chunk.js.map",
   "static/css/1.70c2eb44.chunk.css": "/static/css/1.70c2eb44.chunk.css",
   "static/js/1.8ff9ee61.chunk.js": "/static/js/1.8ff9ee61.chunk.js",
   "static/js/1.8ff9ee61.chunk.js.map": "/static/js/1.8ff9ee61.chunk.js.map",
@@ -26,10 +26,10 @@
   "static/media/skill.svg": "/static/media/skill.34409398.svg",
   "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
   "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+  "static/css/main.5cf1b47a.chunk.css.map": "/static/css/main.5cf1b47a.chunk.css.map",
   "static/css/1.70c2eb44.chunk.css.map": "/static/css/1.70c2eb44.chunk.css.map",
   "static/css/2.28f6d7a9.chunk.css.map": "/static/css/2.28f6d7a9.chunk.css.map",
-  "static/css/main.5cf1b47a.chunk.css.map": "/static/css/main.5cf1b47a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.e42ac3733031cabd116d6206a62d6034.js": "/precache-manifest.e42ac3733031cabd116d6206a62d6034.js",
+  "precache-manifest.1542947c6ce21cb6d5f1d4520e049467.js": "/precache-manifest.1542947c6ce21cb6d5f1d4520e049467.js",
   "service-worker.js": "/service-worker.js"
 }
