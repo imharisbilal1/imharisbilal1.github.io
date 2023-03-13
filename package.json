@@ -8,7 +8,6 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
     "font-mfizz": "^2.4.1",
-    "gh-pages": "^2.1.1",
     "jest-canvas-mock": "^2.3.1",
     "node-sass": "^4.14.1",
     "react": "^16.10.2",
@@ -55,6 +54,7 @@
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
+    "gh-pages": "^2.2.0",
     "prettier": "^2.3.1"
   }
 }
